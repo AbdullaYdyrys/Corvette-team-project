@@ -13,3 +13,6 @@ While developing this project, we need to get the results of these questions:
 • What is the rating distribution for the books?
 
 In the end we can easily answer these questions by using our research. Because all the necessary information parsed and analyzed in our dataset.
+
+We also built a simple recommendation system that recommends books with similar ratings. 
+
